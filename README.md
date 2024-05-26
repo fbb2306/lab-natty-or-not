@@ -1,51 +1,17 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+Criando um avatar com IA Generativa 
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Neste projeto planifiquei a geracao de um avatar com IA Generativa, modulando uma voz padrao, com um avatar de minha pessoa, explicando os benficios da IA generativa nos dias atuais.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Neste projeto fizemos uso de duas tecnologias, ChatGPT, D-ID free.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+O primeiro passo e pensar e desenvolver um tema atual para que seja de acordo ao momento e o instrumento de estudo neste caso as IAs Generativas, trabalhar o prompt do chatGPTpara que me entregue o que é necessario para o projeto, fazer o upload e sincronização de texto e voz, no D-ID, gerar o video e fazero download.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Apeser de ser o primeiro video creio que o resultado foi satisfatorio tendo em conta a primeira geração, fazendo uso desta tecnologia. 
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+Tendo em conta a gama de aplicações para a IA generativa temos uma ideia da importancia de conhecer mais desta nova tecnologia, que apesar de ter uma ideia ja a algum tempo lembremos que a tecnologia em si é recente.
 
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
